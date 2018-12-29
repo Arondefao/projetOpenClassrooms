@@ -1,1 +1,3 @@
 coucou OpenClassroom je vais faire un premier commit 
+haha mon commite git commit -am "un simple bonjour" n'a pas marché.
+git add ficher à finalemeent raison
