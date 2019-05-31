@@ -1,8 +1,9 @@
 # projetOpenClassrooms
-Mon devoir git
-Dans ce devoir je vais ecrire du texte dans les ficher txt et les modifier
-j'utiliserai les commande appris en cours tel que git :
-commit -am "description du commit" vu que les fichiers du repository sont de dÈj‡ ajouter ‡ l'index
+
+
+Dans ce devoir git je vais ecrire du texte dans les fichers txt et les modifi√©s
+j'utiliserai les commandes apprisent en cours tel que git :
+commit -am "description du commit" vu que les fichiers du repository sont de d√©j√† ajouter √† l'index
 push origin master 
 pull origin master.
 pas besoin d'un git add fichier
